@@ -1,0 +1,2 @@
+{% set <%= nameSnake %>_base_class = <%= nameSnake %>_base_class|default('<%= nameSnake%>') %}
+<div {{ bem(<%= nameSnake %>_base_class, (<%= nameSnake %>_modifiers), <%= nameSnake %>_blockname) }}

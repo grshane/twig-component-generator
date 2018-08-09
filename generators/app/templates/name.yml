@@ -1,0 +1,4 @@
+<%= nameSnake %>:
+<%= nameSnake %>_base_class:
+<%= nameSnake %>_modifiers:
+<%= nameSnake %>_blockname :
